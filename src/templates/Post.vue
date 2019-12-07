@@ -4,13 +4,11 @@
        <br>
      <div class="hero-head has-text-centered">
         <h1 class="title">{{$page.post.title}} </h1>
-        <p class="subtitle is-size-7"> {{ $page.post.date}} | {{$page.post.timeToRead}} min read</p>
+        <div class="subtitle is-size-7"> {{ $page.post.date}} | {{$page.post.timeToRead}} min read</div>
      </div>
      <div class="hero-body">
      <div class="container">
-        <div class="content has-text-left">
-        
-           <p class="is-size-6" v-html="$page.post.content"/>
+        <div class="content has-text-left is-size-6" v-html="$page.post.content">
         </div>
      </div>
     </div>  

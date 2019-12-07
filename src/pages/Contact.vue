@@ -56,13 +56,13 @@
 
 </div>
  <br>
-  <p>
+  <div class="has-text-centered">
       Interested in sponsoring JavaScript and Friends Conference 2020, you can find the details <a href="https://www.javascriptandfriends.com/callforsponsors/" target="_blank" rel="noopener noreferrer">here</a>.
-      </p>  
+      </div>  
       <br>
-      <p>
+    <div class="has-text-centered">
         If you are interested in reading my previous blogs you can find them <a href="https://baskarrao.wordpress.com" target="blank" rel="noopener noreferrer">here</a>.
-      </p> 
+    </div> 
     </div>
     </div>
     </section>

@@ -9,9 +9,9 @@
     <div class="card-content">
     <div class="content">
       <h4 class="subtitle">{{session.title}}</h4>      
-      <p class="is-small" >
+      <div class="is-small" >
        {{session.description}}
-      </p>
+      </div>
     <template v-for="conference in session.conference">
     <span v-if="conference.url !=''" class="tag is-light is-medium" :key="conference">
     <a v-bind:href="conference.url" target="_blank" rel="noopener noreferrer">
