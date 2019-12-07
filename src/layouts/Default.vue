@@ -5,52 +5,24 @@
         <div id="navbarMenuHeroB" class="navbar-menu">
           <div class="navbar-end">
             <span class="navbar-item">
-              <a class="button is-info is-inverted">
-                <span class="icon">
-                  <i class="fab fa-github"></i>
-                </span>
-                <g-link            
-              to="/"
-            >
+              <g-link class="button is-info is-inverted" to="/">
               Home
               </g-link>
-              </a>
             </span>
             <span class="navbar-item">
-              <a class="button is-info is-inverted">
-                <span class="icon">
-                  <i class="fab fa-github"></i>
-                </span>
-                <g-link            
-              to="/speaking"
-            >
+            <g-link class="button is-info is-inverted" to="/speaking">
               Speaking
             </g-link>
-              </a>
             </span>
            <span class="navbar-item">
-              <a class="button is-info is-inverted">
-                <span class="icon">
-                  <i class="fab fa-github"></i>
-                </span>
-                 <g-link            
-              to="/blog-posts/"
-            >
+             <g-link class="button is-info is-inverted" to="/blog-posts">
               Blog
             </g-link>
-              </a>
             </span>
             <span class="navbar-item">
-              <a class="button is-info is-inverted">
-                <span class="icon">
-                  <i class="fab fa-github"></i>
-                </span>
-                 <g-link            
-              to="/contact"
-            >
+             <g-link class="button is-info is-inverted" to="/contact">
               Contact
             </g-link>
-              </a>
             </span>
            
           </div>
