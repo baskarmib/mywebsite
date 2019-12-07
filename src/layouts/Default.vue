@@ -22,7 +22,7 @@
                   <i class="fab fa-github"></i>
                 </span>
                 <g-link            
-              to="/Speaking"
+              to="/speaking"
             >
               Speaking
             </g-link>
@@ -34,7 +34,7 @@
                   <i class="fab fa-github"></i>
                 </span>
                  <g-link            
-              to="/Blog-Posts/"
+              to="/blog-posts/"
             >
               Blog
             </g-link>
@@ -46,7 +46,7 @@
                   <i class="fab fa-github"></i>
                 </span>
                  <g-link            
-              to="/Contact"
+              to="/contact"
             >
               Contact
             </g-link>
