@@ -1,0 +1,142 @@
+[
+    {
+    "title" : "Welcome to the world of cross platform mobile apps",
+    "description":"Your Company is thinking to build mobile applications to win customers in the Digital Age and as a Technical Architect you are assigned with this huge task on getting the job done as quick as possible and reuse most portions of your application code.As a Technical Leads or Architects, we are generally answerable to the following questions.Which framework to select to develop your first mobile application as part of Digital Transformation initiatives?How many developers to hire to build the mobile applications support teams?What happens to my existing team, how do I use their domain expertise while building mobile applications?What will be the learning curve involved for my team to complete this assignment?Will I be able to reuse my existing application code and how I can maintain the code base with a smaller number of changes for each feature?Will I be able to reuse my authentication providers?That is a lot to digest for a Web Application Architect.Welcome to the world of cross platform mobile applications. There are many cross-platform frameworks available today which helps developers to master mobile application development. Choosing the right framework depends on many factors and is a challenge to Architects. Even though if we choose the right framework, there are chances that we must redesign application components specific to mobile functionalities. Attendees will get complete information on the frameworks which are available as of today which allows code reuse and what factors which they need to consider which considering a framework.A demo will be shown where we convert a web application developed using Vue to a mobile application using NativeScript Vue.",
+    "year" : 2019,
+    "conference":[
+        {
+            "name" : "Dog Food Conference 2019",
+            "url":"//dogfoodcon.com/speakers/"
+        }
+    ]
+},
+{
+    "title" : "What is all the fuss about GraphQL",
+    "description":"Whether it is enterprise information systems or personal blogs there has been increased adoption of GraphQL in all these applications. While the developer community was settling with REST based APIs to handle most of their API requirements, GraphQL came in to help solve most typical issues which developers faced while implementing REST based APIs. This session will go through the basics of Graph QL and provide a brief overview of GraphQL and how it can be implemented to power your personal blogs or enterprise applications. Whether it is Gatsby or Gridsome both bring the benefits of GraphQL to your blog. As part of the talk we will spin up a blog using Gridsome and deploy it to Netlify. With the .dev domain every developer plan to own his blog with .dev domain. Attendees will get complete details about GraphQL and how it can be used in their regular applications.",
+    "year" : 2019,
+    "conference":[
+        {
+            "name" : "CodePaLOUsa 2019",
+            "url":"//www.codepalousa.com/"
+        },
+        {
+            "name" : "Cincy Deliver 2019",
+            "url" :"//www.cincydeliver.org/Speakers/Details/1067"
+        }
+    ]
+},
+{
+    "title" : "Do you like to have a beach view from your workspace",
+    "description":"We all would like to have a beach view from our workplace or home, but trust me not all will be getting those. But you can get a different Vue. This session will focus on the fundamentals of VueJs and how we can develop    web applications using VueJs and Vuex. So what is so cool about web applications, this thought would come to your mind.    What if I tell that using the same concepts of Vue you can develop native mobile applications using NativeScript Vue.    As part of the session we will go through all the gotchas that is required to develop Vue based mobile and web applications.",
+    "year" : 2019,
+    "conference":[
+        {
+            "name" : "CodePaLOUsa 2019",
+            "url":"//www.codepalousa.com/"
+        },
+        {
+            "name" : "NOVA Code Camp 2019",
+            "url" :"//novacodecamp.org/#speakers"
+        },
+        {
+            "name" : "Orlando Code Camp 2019",
+            "url" : "//2019.orlandocodecamp.com/Speakers/Details/47"
+        }
+    ]
+},
+{
+    "title" : "Azure Functions in Action",
+    "description":"Server less architecture is a current buzz word and there are various offerings to choose from different cloud vendors. The talk will be focused on Azure Functions and the various integration options available as part of Azure Functions. A working session will be conducted where participants can access and create their azure functions and get a hands on overview to understand the various integration options and diagnostic mechanism available to monitor the functions. Developers can choose their language of choice to create their own functions and take advantage of the features available from the platform. The talk will also focus on the pricing models available in azure functions and how it has to be taken in to consideration to choose appropriate triggering mechanism.The talk will also explore Durable Functions and how it can be leveraged to solve application details.",
+    "year" : 2018,
+    "conference":[
+        {
+            "name" : "CodePaLOUsa 2018",
+            "url":"//www.codepalousa.com/"
+        },
+        {
+            "name" : "Orlando Code Camp 2018",
+            "url" :"//2018.orlandocodecamp.com/Sessions/Details/10"
+        },
+        {
+            "name" : "Dayton .Net User Group",
+            "url" : "//daytondevgroup.net/?p=496"
+        },
+        {
+            "name" : "Raleigh Code Camp 2017",
+            "url" : ""
+        },
+        {
+            "name" : "Columbus Code Camp 2017",
+            "url" : ""
+        }
+    ]
+},
+{
+    "title" : "Native Script - What you need to be aware",
+    "description":"Native Script is an open source solution used to develop beautiful, accessible, platform-native UI - no webviews. Native script can be used to develop mobile applications which can run on any platform like IOS and Android. The session will cover the basics of Native Script with a working sample of mobile application.",
+    "year" : 2018,
+    "conference":[
+        {
+            "name" : "Boston Code Camp 2018",
+            "url":"//www.bostoncodecamp.com/CC29/presenters/details/17477"
+        },
+        {
+            "name" : "Orlando Code Camp 2018",
+            "url" : "//2018.orlandocodecamp.com/Sessions/Details/116"
+        }
+    ]
+},
+{
+    "title" : "Web Apps to Mobile Apps Developer Using NativeScript",
+    "description":"NativeScript is a free and open source framework to develop native Android and iOS mobile apps from a single code base. This session will go through the fundamentals of building cross platform mobile apps using NativeScript, while leveraging the power of frameworks like VueJS or Angular, and Typescript or JavaScript as language. We will focus on using vanilla JavaScript and look at supporting tools which can be used for truly native cross platform mobile app development.",
+    "year" : 2018,
+    "conference":[
+        {
+            "name" : "GemCity JS 2019",
+            "url":"//www.meetup.com/Gem-City-JS/events/260947589/"
+        },
+        {
+            "name" : "Atlanta Code Camp 2018",
+            "url" : "//www.atlantacodecamp.com/2018/Speakers/Baskar-Rao-Dandlamudi"
+        },
+        {
+            "name" : "CWIT Conference 2018",
+            "url" : "//cwitc.org/2018/sessions"
+        },
+        {
+            "name" : "Dog Food Conference 2018",
+            "url" : ""
+        },
+        {
+            "name" : "Columbus Code Camp 2018",
+            "url" : ""
+        }
+    ]
+},
+{
+    "title" : "Everything Serverless in Azure with Functions and Cosmos",
+    "description":"Server less architecture is a current buzz word and there are various offerings to choose from different cloud vendors. The talk will be focused on Azure Functions and the various integration options available as part of Azure Functions. The session will cover the details of how Azure Functions platform can be used to develop enterprise solutions. The session will cover details on how one can combine Azure Functions and Azure Cosmos DB to develop EDI Flie Processing Solution. Participants will get an overview of Azure Functions and would be able to learn developing custom solutions with Azure Functions.",
+    "year" : 2018,
+    "conference":[
+        {
+            "name" : "Boston Code Camp 2018",
+            "url":"//www.bostoncodecamp.com/CC29/presenters/details/17477"
+        },       
+        {
+            "name" : "CWIT Conference 2018",
+            "url" : "//cwitc.org/2018/sessions"
+        }      
+    ]
+},
+{
+    "title" : "What I am doing wrong with Azure Functions",
+    "description":"Server less is the current buzzword in IT applications. There has been increased adoption to server less technologies provided by major cloud providers. Azure Functions is an offering from Microsoft in Azure in the area of Function as a service (Faas). Azure Functions provide two billing modes mainly consumption model or app service model. This talk will go through the scenarios where we will explore the wrong ways of building applications using Azure Functions and how one can avoid these pitfalls and prevent them from heavy billing based on usage. The talk will also go over the different ways of testing Azure Functions and how one can use application insights to avoid the pitfalls. A working session will be conducted with samples and attendees will get all information on developing applications using Azure Functions in an effective way.",
+    "year" : 2018,
+    "conference":[
+        {
+            "name" : "Day of Agile Conference 2018",
+            "url":""
+        }   
+    ]
+}
+]

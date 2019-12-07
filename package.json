@@ -1,0 +1,23 @@
+{
+  "name": "basupdates",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "@gridsome/source-filesystem": "^0.6.2",
+    "@gridsome/transformer-remark": "^0.4.0",
+    "bulma": "^0.8.0",
+    "gridsome": "^0.7.0",
+    "gridsome-plugin-remark-shiki": "^0.3.0",
+    "node-sass": "^4.13.0",
+    "sass-loader": "^8.0.0"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.25",
+    "@fortawesome/free-brands-svg-icons": "^5.11.2",
+    "@fortawesome/vue-fontawesome": "^0.1.8"
+  }
+}
