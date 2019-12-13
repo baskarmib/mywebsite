@@ -6,7 +6,7 @@
     <h1 class="title">Contact Me</h1>
     <p>
     I am available for consulting engagements, speaking and workshop assignments.
-    Reach out to me by email at baskarrao.dandlamudi@outlook.com 
+    Reach out to me through LinkedIn or Twitter.
     </p>
     <p>
     Also available on below social media channels.
