@@ -3,7 +3,9 @@
     <section class="hero is-light is-fullheight-with-navbar">
     <div class="hero-body">
     <div class="container">  
-    
+    <div class="info">
+    If you find the below sessions interesting and would like me to speak at your events, contact me to schedule. 
+    </div>
     <template v-for="session in talkdetails"> 
     <div class="card" :key="session">
     <div class="card-content">
