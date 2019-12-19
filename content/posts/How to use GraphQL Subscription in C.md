@@ -1,7 +1,7 @@
 ---
 title: "How to use Subscriptions in GraphQL C#"
 description: "Experiences from learning GraphQL Subscriptions in C#"
-date: 2019-12-06
+date: 2019-12-19
 ---
 
 This blog post is part of Third C# Annual Advent organized by Matt Groves, Developer Advocate Couchbase and Microsoft MVP. Thanks to Matt for giving me an opportunity to participate again this year.
