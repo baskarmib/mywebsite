@@ -321,19 +321,19 @@ http: localhost:5000/ui/graphiql
 
 <br></br>
 
-![Before Mutation](./Subs1.png)
+![Before Mutation](./Subs1.PNG)
 
 <br></br>
 
-![Subscription](./Subs2.png)
+![Subscription](./Subs2.PNG)
 
 <br></br>
-![After Mutation](./Subs3.png)
+![After Mutation](./Subs3.PNG)
 <br></br>
 
 The Subscription Manager keeps track of all the subscriptions. At any time if you want to know how many clients are clients are subscribed, you can find them in the console log.
 
-![Console Log](./Subs4.png)
+![Console Log](./Subs4.PNG)
 
 <br></br>
 <br></br>
