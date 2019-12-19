@@ -15,7 +15,7 @@ module.exports = {
       options: {
         path: 'content/posts/**/*.md',
         typeName: 'Post'       
-      }
+      },         
   }],
   transformers:{
     remark: {

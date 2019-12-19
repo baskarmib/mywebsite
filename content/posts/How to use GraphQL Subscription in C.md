@@ -1,9 +1,8 @@
 ---
-title: "How to use GraphQL Subscription in C#"
-description: "Experiences from learning Subscriptions in GraphQL Dot Net"
-date: 2019-12-19
+title: "How to use Subscriptions in GraphQL C#"
+description: "Experiences from learning GraphQL Subscriptions in C#"
+date: 2019-12-06
 ---
-
 
 This blog post is part of Third C# Annual Advent organized by Matt Groves, Developer Advocate Couchbase and Microsoft MVP. Thanks to Matt for giving me an opportunity to participate again this year.
 
@@ -93,7 +92,7 @@ ExposeExceptions - This can be used to show the Exception Stack Trace.
                 .AddGraphTypes(typeof(GraphSchema));
             }
 ```
-
+<br></br>
 UseWebSockets, UseGraphQLWebSockets are needed for Subscription.
 ```js
     public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
@@ -169,7 +168,7 @@ AuthorMutation will have the details of the name of Mutation, the arguments whic
             }
         }
 ```
-
+<br></br>
 The below code is used in AuthorSubscription. AuthorSubscription will have the details of Subscription name, and the methods to resolve. The Subscribe method returns the content from an Observable. It is the observable which is used in the background to send information as payload to all subscribers. 
 
 ```js
@@ -198,7 +197,7 @@ The below code is used in AuthorSubscription. AuthorSubscription will have the d
             }
         }
 ```
-
+<br></br>
 When any new content is added to the messageStream the payload is sent to all subscribers.
 
 ```js
@@ -256,7 +255,7 @@ When any new content is added to the messageStream the payload is sent to all su
             public string Name { get; set; }
         }
 ```
-
+<br></br>
 This is the Schema which we have used for this sample. I have tried to use some portions from Chris Sample where the schema is defined inline. We can also define parts of our schema separately as we did with AuthorMutation and AuthorSubscription.  
 
 ```js
@@ -309,7 +308,7 @@ This is the Schema which we have used for this sample. I have tried to use some 
             }       
         }
 ```
-
+<br></br>
 The sample code can be found in my GitHub in references section to have an understanding on the implementation of Subscriptions in GraphQL. 
 It is still work in progress repo and not recommended for production usage. The repo is tested for subscriptions with .Net Core 3.0
 
@@ -320,22 +319,20 @@ http: localhost:5000/ui/graphiql
 ```
 
 <br></br>
-
-![Before Mutation](./Subs1.PNG)
-
-<br></br>
-
-![Subscription](./Subs2.PNG)
+### Before Mutation
+![Before Mutation](./subscription1.jpg)
 
 <br></br>
-![After Mutation](./Subs3.PNG)
+### Mutation
+![Mutation](./subscription2.jpg)
 <br></br>
+### After Mutation
+![After Mutation](./subscription3.jpg)
 
+<br></br>
 The Subscription Manager keeps track of all the subscriptions. At any time if you want to know how many clients are clients are subscribed, you can find them in the console log.
+![Console Log](./subscription4.jpg)
 
-![Console Log](./Subs4.PNG)
-
-<br></br>
 <br></br>
 
 <div class="notification is-info">
