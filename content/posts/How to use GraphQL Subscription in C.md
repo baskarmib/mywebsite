@@ -319,21 +319,21 @@ We can test the API using GraphIQL which will be initialized when we browse
 http: localhost:5000/ui/graphiql 
 ```
 
+<br></br>
 
-
-![Before Mutation](~/assets/img/Subs1.png)
+![Before Mutation](./Subs1.png)
 
 <br></br>
 
-![Subscription](~/assets/img/Subs2.png)
+![Subscription](./Subs2.png)
 
 <br></br>
-![After Mutation](~/assets/img/Subs3.png)
+![After Mutation](./Subs3.png)
 <br></br>
 
 The Subscription Manager keeps track of all the subscriptions. At any time if you want to know how many clients are clients are subscribed, you can find them in the console log.
 
-![Console Log](~/assets/img/Subs4.png)
+![Console Log](./Subs4.png)
 
 <br></br>
 <br></br>
@@ -361,8 +361,5 @@ Hope you have got a better understanding to implement.
 <p>
 My GitHub Sample - <a href="https://github.com/baskarmib/CodeCamp2019/tree/master/aspnetcoreapp" target="_blank" rel="noopener noreferrer">[https://github.com/baskarmib/CodeCamp2019/tree/master/aspnetcoreapp]</a>
 </p>
-<p>
-<a href="https://graphql.org/" target="_blank" rel="noopener noreferrer">[https://graphql.org/]</a>
-</p>    
 </div>
 
