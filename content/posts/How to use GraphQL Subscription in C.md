@@ -347,7 +347,7 @@ Hope you have got a better understanding to implement.
 
 <div class="notification is-info">
 <p>
-<a href="https://graphql-dotnet.github.io/docs/getting-started/subscriptions/" target="_blank" rel="noopener noreferrer">[https://graphql-dotnet.github.io/docs/getting-started/subscriptions/](https://graphql-dotnet.github.io/docs/getting-started/subscriptions/]</a>
+<a href="https://graphql-dotnet.github.io/docs/getting-started/subscriptions/" target="_blank" rel="noopener noreferrer">[https://graphql-dotnet.github.io/docs/getting-started/subscriptions/]</a>
 </p>
 <p>
 <a href="https://graphql-dotnet.github.io/docs/getting-started/graphiql/" target="_blank" rel="noopener noreferrer">[https://graphql-dotnet.github.io/docs/getting-started/graphiql/]</a>
@@ -357,6 +357,9 @@ Hope you have got a better understanding to implement.
 </p>
 <p>
 My GitHub Sample - <a href="https://github.com/baskarmib/CodeCamp2019/tree/master/aspnetcoreapp" target="_blank" rel="noopener noreferrer">[https://github.com/baskarmib/CodeCamp2019/tree/master/aspnetcoreapp]</a>
+</p>
+<p>
+<a href="https://graphql.org/" target="_blank" rel="noopener noreferrer">[https://graphql.org/]</a>
 </p>
 </div>
 
