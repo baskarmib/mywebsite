@@ -7,10 +7,18 @@
 module.exports = {
   siteName: 'baskarmib world',  
   templates:{
-      Post : '/content/posts/:year/:month/:title',
+      Post : '/content/posts/:year/:month/:day/:title',
       
   },
-  plugins: [{
+  plugins: [
+    {
+      use:'@gridsome/plugin-google-analytics',
+      options:
+      {
+        id:'UA-154891562-1'
+      }
+    },
+    {
     use: '@gridsome/source-filesystem',
       options: {
         path: 'content/posts/**/*.md',
