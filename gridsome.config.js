@@ -30,7 +30,7 @@ module.exports = {
       autolinkClassName: "fas fa-hashtag",
       externalLinksTarget: "_blank",
       externalLinksRel: ["nofollow", "noopener", "noreferrer"],
-      plugins: [['gridsome-plugin-remark-shiki', { theme: 'nord', skipInline: false }]]
+      plugins: [['gridsome-plugin-remark-shiki', { theme: 'nord' }]]
     }
   }
 }
