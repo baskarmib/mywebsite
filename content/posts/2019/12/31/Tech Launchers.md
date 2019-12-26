@@ -16,6 +16,7 @@ Based on Wikipedia -
 
 > A launch vehicle or carrier rocket is a rocket propelled vehicle used to carry a payload from Earth's surface to space, usually to Earth orbit or beyond.
 
+
 > A rocket launcher is a device that launches an unguided, rocket-propelled projectile
 
 Now that you have a basic understanding of the term "Launcher", Tech Launchers are those who will have both qualities in them.  
@@ -45,13 +46,14 @@ Check the links section below for joining the Slack channel.
 
 You will define the rules on when you want to connect and the frequency.
 
-I will refine the program as we start. 
 
-Let us close the gap. Why should our future aspiring programmers reinvent the wheel?
+### Final Thoughts
 
-I am in as a Tech Launcher and excited to launch as many as I can. 
+I will refine the program as we start. Let us close the gap. 
 
-If you are interested in joining me in this journey, you can reach out to me for more details. 
+Why should our future aspiring programmers reinvent the wheel?
+
+I am in as a Tech Launcher and excited to launch as many as I can this new year. If you are interested in joining me in this journey, you can reach out to me for more details. 
 
 This is a voluntary initiative to help. The program enforces JavaScript and Friends "Code of Conduct".
 
@@ -60,13 +62,16 @@ Share the details of this program to as many college/bootcamp graduates and self
 
 ### Related Links-
 <div class="notification is-info">
-<a href="https://en.wikipedia.org/wiki/Rocket_launcher" target="_blank" rel="noopener noreferrer">WikiPedia Rocket Launcher
-</a>
+<p>
+<a href="https://en.wikipedia.org/wiki/Rocket_launcher" target="_blank" rel="noopener noreferrer">WikiPedia Rocket Launcher</a>
 </p>
 <p>
 <a href="https://en.wikipedia.org/wiki/Launch_vehicle" target="_blank" rel="noopener noreferrer">WikiPedia Satellite Launch Vehicle</a>
 </p>
 <p>
 <a href="https://www.coursereport.com/reports/coding-bootcamp-market-size-research-2019" target="_blank" rel="noopener noreferrer">Course Report 2019 Bootcamp Research</a>
+</p>
+<p>
+<a href="https://www.javascriptandfriends.com/codeofconduct" target="_blank" rel="noopener noreferrer">JavaScript and Friends Code of Conduct</a>
 </p>
 </div>
