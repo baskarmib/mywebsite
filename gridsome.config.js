@@ -24,7 +24,35 @@ module.exports = {
         path: 'content/posts/**/*.md',
         typeName: 'Post'       
       },         
-  }],
+  },
+  {
+    use: 'gridsome-plugin-rss',
+    options: {
+      contentTypeName: 'Post',
+      feedOptions: {
+        title: 'baskarmib Blog',
+        feed_url: 'https://baskarmib.netlify.com/rss.xml',
+        site_url: 'https://baskarmib.netlify.com'
+      },
+      feedItemOptions: node => ({
+        title: node.title,
+        description: node.description,
+        url: getPostURL(node.date, node.title),
+        author: node.author,
+        date: node.date,
+          custom_elements: [
+            {
+              published: node.date.toString()
+            }
+          ]
+      }),
+      output: {
+        dir: './static',
+        name: 'rss.xml'
+      }
+    }
+  }
+],
   transformers:{
     remark: {
       autolinkClassName: "fas fa-hashtag",
@@ -33,4 +61,14 @@ module.exports = {
       plugins: [['gridsome-plugin-remark-shiki', { theme: 'nord' }]]
     }
   }
+}
+
+function getPostURL(date, title) {
+  const createdOn = new Date(date);
+  const year = createdOn.getFullYear();
+  const month = `${
+    createdOn.getMonth() + 1 < 10 ? "0" : ""
+  }${createdOn.getMonth() + 1}`;
+  const day = `${createdOn.getDate() < 10 ? "0" : ""}${createdOn.getDate()}`;
+  return `https://baskarmib.netlify.com/content/posts/${year}/${month}/${day}/${title}`;
 }

@@ -2,6 +2,7 @@
 title: "Retrospect Year 2019"
 description: "Thankful to all for incredible 2019. What went well? What can be improved? What to expect in 2020"
 date: 2019-12-23
+author: "baskarmib"
 ---
 
 ## Year as Community Conference Organizer, Speaker, Developer and me.

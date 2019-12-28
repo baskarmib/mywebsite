@@ -2,6 +2,7 @@
 title: "Hello world - Gridsome"
 description: "Experiences from developing blog using Gridsome"
 date: 2019-12-06
+author: "baskarmib"
 ---
 
 Welcome to my new blog. I will be writing my technical experiences, challenges faced and other adventures and tips in this blog. I have been developing this website for quite some time now and I decided to use Gridsome to develop my new blog. 
