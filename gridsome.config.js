@@ -37,7 +37,7 @@ module.exports = {
       feedItemOptions: node => ({
         title: node.title,
         description: node.description,
-        url: getPostURL(node.date, node.title),
+        url: getPostURL(node.path),
         author: node.author,
         date: node.date,
           custom_elements: [
@@ -63,12 +63,6 @@ module.exports = {
   }
 }
 
-function getPostURL(date, title) {
-  const createdOn = new Date(date);
-  const year = createdOn.getFullYear();
-  const month = `${
-    createdOn.getMonth() + 1 < 10 ? "0" : ""
-  }${createdOn.getMonth() + 1}`;
-  const day = `${createdOn.getDate() < 10 ? "0" : ""}${createdOn.getDate()}`;
-  return `https://baskarmib.netlify.com/content/posts/${year}/${month}/${day}/${title}`;
+function getPostURL(path) { 
+  return `https://baskarmib.netlify.com${path}`;
 }
