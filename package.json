@@ -13,6 +13,7 @@
     "bulma": "^0.8.0",
     "gridsome": "^0.7.11",
     "gridsome-plugin-remark-shiki": "^0.3.0",
+    "gridsome-plugin-remark-twitter": "^0.1.2",
     "gridsome-plugin-rss": "^1.2.0",
     "node-sass": "^4.13.0",
     "sass-loader": "^8.0.0",

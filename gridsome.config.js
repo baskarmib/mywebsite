@@ -22,8 +22,16 @@ module.exports = {
     use: '@gridsome/source-filesystem',
       options: {
         path: 'content/posts/**/*.md',
-        typeName: 'Post'       
-      },         
+        typeName: 'Post' ,
+        remark: {
+          autolinkClassName: "fas fa-hashtag",
+          externalLinksTarget: "_blank",
+          externalLinksRel: ["nofollow", "noopener", "noreferrer"],
+          plugins: [['gridsome-plugin-remark-shiki', { theme: 'nord' }],
+          ['gridsome-plugin-remark-twitter',{align:'center'}]
+        ]
+        }             
+      }         
   },
   {
     use: 'gridsome-plugin-rss',
@@ -52,15 +60,7 @@ module.exports = {
       }
     }
   }
-],
-  transformers:{
-    remark: {
-      autolinkClassName: "fas fa-hashtag",
-      externalLinksTarget: "_blank",
-      externalLinksRel: ["nofollow", "noopener", "noreferrer"],
-      plugins: [['gridsome-plugin-remark-shiki', { theme: 'nord' }]]
-    }
-  }
+]
 }
 
 function getPostURL(path) { 

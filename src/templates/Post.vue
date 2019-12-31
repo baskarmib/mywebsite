@@ -31,3 +31,12 @@ query Post ($path: String!) {
 <style>
 
 </style>
+<script>
+  export default {
+    mounted() {
+      let twitterScript = document.createElement('script')
+      twitterScript.setAttribute('src', 'https://platform.twitter.com/widgets.js')
+      document.head.appendChild(twitterScript)
+    }    
+  }
+</script>
