@@ -42,13 +42,11 @@ I reached out to community to see if they would be interested to speak if I orga
 
 https://twitter.com/baskarmib/status/1225560043522752513?s=20
 
-https://twitter.com/baskarmib/status/1225560043522752513?s=20
-
 Thanks to Chris Woodruff for accepting to do the Keynote and thanks to Matt Eland, Ado Kukic and Patrick Kelly for submitting your talks to speak. 
 
 Follow Dot Net Open Source Days on Twitter to get updates on Dot Net Open Source based Projects, Libraries, Frameworks and other updates related to the virtual conference.
 
-https://twitter.com/dotnetopensour1
+https://twitter.com/dotnetopensour1/status/1231963118349246467
 
 ### Related Links
 
