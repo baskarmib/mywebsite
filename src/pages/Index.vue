@@ -14,7 +14,7 @@
        Baskar Rao Dandlamudi
       </h1>  
       <p class="subtitle">
-      Auth0 Ambassador, Founding Member JavaScript and Friends
+      Auth0 Ambassador, Cloudinary Media Developer Expert, Founding Member JavaScript and Friends
       </p>   
       <p >
       With over 12 years of experience developing software applications and designing solutions , he solves complex problems faced by enterprise applications on a day to day basis. 
