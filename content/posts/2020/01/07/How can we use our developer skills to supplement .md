@@ -190,6 +190,8 @@ Personally I am in walking phase. I have no plans to go through the running phas
 
 [https://www.cfpland.com/guides/speaking](https://www.cfpland.com/guides/speaking)
 
+[https://exceptionnotfound.net/improving-your-technical-speaking-skills-be-knowledgeable/](https://exceptionnotfound.net/improving-your-technical-speaking-skills-be-knowledgeable/)
+
 ### Guest Author Programs -
 
 [https://www.digitalocean.com/write-for-donations/](https://www.digitalocean.com/write-for-donations/)
