@@ -14,10 +14,7 @@ Though I had experience in organizing an in-person conference, when it comes to 
 
 I had my own doubts when I decided to organize the conference. I had many questions for which I did not know the answers.  As mentioned in my previous posts, I decided to organize the conference on Feb-06-2020. When I mentioned that I was going to run a virtual event, I was not aware that I will be running the whole show from my home office. 
 
-
-<div class="card-image has-text-centered">
-<g-image src="./bandwidth.jpg" width="1000" height="300" position="centre" fit="cover" alt="bandwidth" />
-</div>
+![Bandwidth](./bandwidth.jpg)
 
 From my experience of organizing virtual meetups for JavaScript and Friends, I know that I can manage to run a virtual event for minimum of 2 hours from my home office. I have never organized a virtual event beyond 2 hours using my home bandwidth. 
 
@@ -49,10 +46,9 @@ We were lucky enough that my decision to have attendees join the Zoom along with
 
 ### Promoting the Conference
 
+![Promotion](./campaign.jpg)
 
-<div class="card-image has-text-centered">
-<g-image src="./campaign.jpg" width="1000" height="300" position="centre" fit="cover" alt="Promotion" />
-</div>
+
 
 Yes, I must admit that I did not plan well for promoting the conference. I only used LinkedIn and Twitter as my primary medium for promoting the conference. There are some plans in my mind for Version 2.0 and I think I can do better for the second version.  
 
