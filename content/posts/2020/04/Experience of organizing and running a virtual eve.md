@@ -16,7 +16,7 @@ I had my own doubts when I decided to organize the conference. I had many questi
 
 
 <div class="card-image has-text-centered">
-<img src="./bandwidth.jpg?width=1000&height=300&position=centre&fit=cover" alt="bandwidth" />
+<g-image src="./bandwidth.jpg" width="1000" height="300" position="centre" fit="cover" alt="bandwidth" />
 </div>
 
 From my experience of organizing virtual meetups for JavaScript and Friends, I know that I can manage to run a virtual event for minimum of 2 hours from my home office. I have never organized a virtual event beyond 2 hours using my home bandwidth. 
@@ -51,7 +51,7 @@ We were lucky enough that my decision to have attendees join the Zoom along with
 
 
 <div class="card-image has-text-centered">
-<img src="./campaign.jpg?width=1000&height=300&position=centre&fit=cover" alt="Promoting" />
+<g-image src="./campaign.jpg" width="1000" height="300" position="centre" fit="cover" alt="Promotion" />
 </div>
 
 Yes, I must admit that I did not plan well for promoting the conference. I only used LinkedIn and Twitter as my primary medium for promoting the conference. There are some plans in my mind for Version 2.0 and I think I can do better for the second version.  
@@ -71,6 +71,7 @@ With better planning and execution, I am hoping to make Version 2.0 Awesome. You
 Stay safe everyone.
 
 Image Credit in order
+
 Photo by Thomas Jensen on Unsplash
 
 Photo by Campaign Creators on Unsplash
