@@ -33,19 +33,16 @@ img[alt="Bandwidth"]
 {
   width:1000px !important;
   height:300px !important; 
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  
 }
 img[alt="Promotion"]
 {
   width:1000px !important;
-  height:300px !important;  
+  height:300px !important;    
+}
+img{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  
 }
 </style>
 <script>
