@@ -39,6 +39,11 @@ img[alt="Promotion"]
   width:1000px !important;
   height:300px !important;    
 }
+img[alt="LongRoadAhead"]
+{
+  width:800px !important;
+  height:400px !important;    
+}
 img{
   display: block;
   margin-left: auto;
