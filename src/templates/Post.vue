@@ -44,6 +44,34 @@ img[alt="LongRoadAhead"]
   width:800px !important;
   height:400px !important;    
 }
+img[alt="Foundation"]
+{
+  width:800px !important;
+  height:400px !important;    
+}
+img[alt="SelectTemplate"]
+{
+  width:800px !important;
+  height:400px !important;    
+}
+
+img[alt="CreateSolution"]
+{
+  width:800px !important;
+  height:400px !important;    
+}
+
+img[alt="Breakpoint"]
+{
+  width:800px !important;
+  height:400px !important;    
+}
+
+img[alt="OutputWindow"]
+{
+  width:800px !important;
+  height:400px !important;    
+}
 img{
   display: block;
   margin-left: auto;
