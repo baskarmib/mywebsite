@@ -45,10 +45,10 @@ Since we are dealing with C#, we can choose the same.
 4.	You should be able to see the Hello World application.
 
 
-![SelectTemplate](./step1.JPG)
+![SelectTemplate](./step1.png)
 
 
-![CreateSolution](./step2.JPG)
+![CreateSolution](./step2.png)
 
 
 So, what happened till now - Visual Studio created the solution and project based on our selection. 
@@ -87,7 +87,7 @@ Which means the method will not be exposed outside of the class.
 In Visual Studio you can find Green - Play button, this will start the application with Debug enabled. 
 You can place breakpoints like the red dot as shown in the below picture before clicking the Play button.
 
-![Breakpoint](./step3.JPG)
+![Breakpoint](./step3.png)
 
 
 When we click the Play button - Visual Studio will build the application and runs the application. If the build is successful, you can see the application displaying a console window and the code execution stops 
@@ -96,7 +96,7 @@ in the breakpoint waiting for action from us.
 We can go ahead and select the Continue Option - the same Green - Play button. The code execution continues, and we can find the Console printing the output - Hello World.
 Next the code executes Console.ReadLine() which would accept an input from us. We can enter any random text in Console and press the Enter key to close the console. Console.ReadLine() is useful so that we can see the output in the console. If we execute the same code again without Console.ReadLine() you can see that the console windows start and closes without showing us the output. It is because the console prints the output and does not wait and proceeds to close the application. Console is the class which is part of namespace System. This is used to handle any console-based operations.
 
-![OutputWindow](./step4.JPG)
+![OutputWindow](./step4.png)
 
 <br></br>
 
