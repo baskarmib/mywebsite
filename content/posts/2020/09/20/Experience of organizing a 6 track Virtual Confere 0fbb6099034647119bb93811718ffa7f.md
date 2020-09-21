@@ -120,5 +120,8 @@ We did not have major issues with workshops. We delivered workshops through Zoom
 
 [https://dev.to/tessamero/series-you-re-doing-virtual-events-wrong-advice-from-the-community-attendee-experience-2p02](https://dev.to/tessamero/series-you-re-doing-virtual-events-wrong-advice-from-the-community-attendee-experience-2p02)
 
-In the end all went well and we were able to pull of the event. Though we faced initial hiccups, at the end we were able to resolve them soon and pull through the end. This was a great learning experience, and I am sure this would help me and you in delivering future events with less hassles. Though this article did not go in to the specifics of setting up StreamLabs, I am always to share my experiences with you if you need more information on setting up StreamLabs. I thank all friends and volunteers who supported me during the conference day. Special thanks to [Michael Jolley](https://twitter.com/baldbeardbuild) for desigining and sharing the stream layover design. Thanks to all authors under Inspirations which helped me in executing the conference successfully.
+In the end all went well and we were able to pull of the event. Though we faced initial hiccups, at the end we were able to resolve them soon and pull through the end. This was a great learning experience, and I am sure this would help me and you in delivering future events with less hassles. Though this article did not go in to the specifics of setting up StreamLabs, I am always happy to share my experiences with you if you need more information on setting up StreamLabs. 
 
+I thank all friends and volunteers who supported me during the conference day. Special thanks to [Michael Jolley](https://twitter.com/baldbeardbuild) for desigining and sharing the stream layover design. 
+
+Thanks to all authors under Inspirations which helped me in executing the conference successfully.
