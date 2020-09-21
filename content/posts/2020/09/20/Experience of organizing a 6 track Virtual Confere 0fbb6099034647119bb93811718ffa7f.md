@@ -70,13 +70,13 @@ In order to stream to YouTube, we ended up creating 6 Live Stream events in YouT
 
 We need to make sure that the stream key for each event is unique.  These stream keys were used in StreamLabs OBS on each virtual machine. I initially ended up having same stream key for all tracks and later figured this on the day of conference while streaming our Keynote. If you had noticed you would have seen the Keynote on two tracks, while originally it was planned to be shown on Track One. This is my first lesson learnt on the day of conference streaming.
 
-![Youtube](./streamkeys.jpg)
+![Youtube](./streamkeys.JPG)
 
 While we had time between our Keynote and regular track sessions, I made sure to update the stream keys for all events and configured the stream keys in StreamLabs OBS. This was the reason for the delay in few talks which did not start on time in Track 1, 3 ,4, 5, 6.
 
 Now that we managed to start the talks in each tracks, we started facing audio quality issues with the stream after few minutes of the stream. This is because, I had StreamLabs OBS to Monitor Output. Using Monitor Output we can test if our stream audio is working fine. But it is necessary that we need to make the Monitor Off when we go live with YouTube.  I managed to figure this out and change the configurations accordingly in all 6 machines. This is the reason for talks on Track 1, 3, 4, 5, 6 which faced the audio quality issues during 9 AM talk.  This is my second lesson learnt on the day of conference streaming.  
 
-![StreamLabs](./monitoroff.jpg)
+![StreamLabs](./monitoroff.JPG)
 
 Though I ended up testing the streams prior to the actual conference, it seems like the audio issues started appearing after few minutes of the stream and did not appear during the test streams. It was good that, I was able to figure this out and make sure that the remaining conference is not impacted. 
 
