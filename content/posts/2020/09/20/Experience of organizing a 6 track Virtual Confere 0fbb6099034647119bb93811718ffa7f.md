@@ -1,6 +1,6 @@
 ---
 title: "Experience of organizing a 6 track Virtual Conference"
-description: "This post explains my experience and learnings from organizing JavaScript and Friends Conferenc e 2020"
+description: "This post explains my experience and learnings from organizing JavaScript and Friends Conference 2020"
 date: 2020-09-20
 author: "baskarmib"
 ---
