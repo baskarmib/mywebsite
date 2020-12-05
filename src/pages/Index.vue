@@ -17,7 +17,7 @@
       Auth0 Ambassador, Cloudinary Media Developer Expert, Founding Member JavaScript and Friends
       </p>   
       <p >
-      With over 12 plus years of experience developing software applications and designing solutions, he solves complex problems faced by enterprise applications on a day to day basis. 
+      With over 13 years of experience developing software applications and designing solutions, he solves complex problems faced by enterprise applications on a day to day basis. 
       He is a technologist and tries to keep himself updated with latest technology advancements. 
       In his free time, he blogs and speaks at conferences and code camps sharing his experiences with new technologies. 
       He organizes JavaScript and Friends Annual Conference and conducts monthly developer meetups on topics based on Angular, React, Vue and JavaScript. 
