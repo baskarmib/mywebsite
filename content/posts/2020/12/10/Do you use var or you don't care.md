@@ -53,7 +53,7 @@ So to check this further, I went through and ran ILDASM to see if there is any d
 
 From the managed code we can see that, both lines look the same. 
 
-![UsingvarandtypeinCSharp](./UsingvarandtypeinCSharp.jpg)
+![UsingvarandtypeinCSharp](./UsingvarandtypeinCSharp.png)
 
 So finally whether we use "var" or type name, it all depends on the choice that we want to make. 
 If we are starting a brand new project or library there is no harm taking the "var" route. 
