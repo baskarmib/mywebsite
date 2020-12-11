@@ -72,6 +72,7 @@ img[alt="OutputWindow"]
   width:800px !important;
   height:400px !important;    
 }
+
 img{
   display: block;
   margin-left: auto;
