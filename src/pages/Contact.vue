@@ -57,7 +57,7 @@
 </div>
  <br>
   <div class="has-text-centered">
-      Interested in sponsoring JavaScript and Friends Conference 2020, you can find the details <a href="https://www.javascriptandfriends.com/callforsponsors/" target="_blank" rel="noopener noreferrer">here</a>.
+      Interested in sponsoring JavaScript and Friends Conference {{ new Date().getFullYear() }}, you can find the details <a href="https://www.javascriptandfriends.com/callforsponsors/" target="_blank" rel="noopener noreferrer">here</a>.
       </div>  
       <br>
     <div class="has-text-centered">
