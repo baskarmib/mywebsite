@@ -29,6 +29,7 @@
       <br>     
       <p class="subtitle">Certifications and Courses</p>
       <p>
+      <span class="tag is-info">Introduction to Cloud Foundry and Cloud Native Architecture</span> &nbsp;
       <span class="tag is-info">70-535 Architecting Microsoft Azure Solutions</span> &nbsp;
       <span class="tag is-info">70-532 Developing Microsoft Azure Solutions</span> &nbsp;
       <span class="tag is-info">Certified Scrum Master</span> &nbsp;
