@@ -27,9 +27,7 @@ Now it is time to write some code to access the element using C#. We will naviga
 
 ### Accessing Icons Using Code
 
-We can use a normal Console Application. After creating a new console application, let us add 
-
-References to the following dlls.
+We can use a normal Console Application. After creating a new console application, let us add references to the following dlls.
 
 1. UiaComWrapper.dll
 2. Interop.UIAutomationClient.dll
