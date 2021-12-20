@@ -5,7 +5,7 @@ date: 2021-12-18
 author: "baskarmib"
 ---
 
-This blog post is part of Fifth C# Annual Advent organized by Matt Groves, Product Marketing Manager-Couchbase and Microsoft MVP and Calvin Allen, Microsoft MVP. Thanks to Matt and Calvin for giving me an opportunity to participate again this year.
+This blog post is part of Fifth C# Annual Advent organized by Matt Groves, Senior Product Marketing Manager-Couchbase and Microsoft MVP and Calvin Allen, Microsoft MVP. Thanks to Matt and Calvin for giving me an opportunity to participate again this year.
 
 You can follow all the posts from this year [C# Advent here.](https://www.csadvent.christmas/)
 
