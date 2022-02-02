@@ -22,9 +22,9 @@
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
     "@fortawesome/free-brands-svg-icons": "^5.15.4",
     "@fortawesome/vue-fontawesome": "^0.1.10",
-    "fibers": "^5.0.0",
+    "fibers": "^5.0.1",
     "node-sass": "^4.14.1",
-    "sass": "^1.45.0",
+    "sass": "^1.49.7",
     "sass-loader": "^8.0.2"
   }
 }
