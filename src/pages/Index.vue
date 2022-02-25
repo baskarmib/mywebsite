@@ -35,6 +35,7 @@
       <span class="tag is-info">Certified Scrum Master</span> &nbsp;
       <span class="tag is-info">Introduction to Enterprise Architecture</span> &nbsp;
       <span class="tag is-info">Shaping up with AngularJS</span> &nbsp;
+      <span class="tag is-info">Digital Technology and Innovation</span> &nbsp;
       </p>
     </div>
   </div>
