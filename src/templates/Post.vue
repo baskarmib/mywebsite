@@ -73,6 +73,12 @@ img[alt="OutputWindow"]
   height:400px !important;    
 }
 
+img[alt="Add Value To Others"]
+{
+  width:50% !important;
+  height:50% !important;    
+}
+
 img{
   display: block;
   margin-left: auto;
