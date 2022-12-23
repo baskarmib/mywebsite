@@ -9,14 +9,7 @@ module.exports = {
   templates:{
     Post : '/content/posts/:year/:month/:day/:title'
   },
-  plugins: [
-    {
-      use:'@gridsome/plugin-google-analytics',
-      options:
-      {
-        id:'UA-154891562-1'
-      }
-    },
+  plugins: [    
     {
     use: '@gridsome/source-filesystem',
       options: {
