@@ -17,8 +17,8 @@
 </template>
 
 <page-query>
-query Post ($path: String!) {
-   post: post (path: $path) {
+query ($id: ID!) {
+  post(id: $id) {
     id
     title
     content

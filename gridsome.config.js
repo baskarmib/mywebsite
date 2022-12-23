@@ -7,8 +7,7 @@
 module.exports = {
   siteName: 'baskarmib world',  
   templates:{
-      Post : '/content/posts/:year/:month/:day/:title',
-      
+    Post : '/content/posts/:year/:month/:day/:title'
   },
   plugins: [
     {
