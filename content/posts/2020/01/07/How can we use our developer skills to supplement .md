@@ -4,6 +4,7 @@ description: "In this two part series, I am going share my views on generating s
 date: 2020-01-07
 author: "baskarmib"
 ---
+
 In my previous post, I covered few short-term process which you can use to generate additional income. In this post I will continue exploring few short-term process and then cover details on the long-term process. 
 
 ## Short-Term Process Contd...

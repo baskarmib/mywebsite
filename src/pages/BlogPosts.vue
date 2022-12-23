@@ -17,12 +17,11 @@ query {
     {
       node
       {
-        title
-        path
-        description
-        date (format: "D MMMM YYYY")
         id
-        timeToRead       
+        title
+        description
+        path
+        date (format: "D MMMM YYYY")
       }
     }
   }

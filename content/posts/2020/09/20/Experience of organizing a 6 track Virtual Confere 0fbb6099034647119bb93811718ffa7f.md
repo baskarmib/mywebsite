@@ -4,6 +4,7 @@ description: "This post explains my experience and learnings from organizing Jav
 date: 2020-09-20
 author: "baskarmib"
 ---
+
 This post is to share my experience from organizing and running a 6 track virtual conference all from the comfort of my home office.  
 
 Earlier this year, I organized a single track virtual conference using Zoom. It was a live conference. Some learning from there helped me in organizing the workshop day at JavaScript and Friends. 
