@@ -23,7 +23,7 @@ query ($id: ID!) {
     title
     content
     date (format: "D MMMM YYYY")
-    timeToRead
+    timeToRead  
   }
 }
 </page-query>
