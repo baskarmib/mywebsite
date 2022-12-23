@@ -13,14 +13,16 @@
 query {
   allPost {
     totalCount
-    edges {
-      node {
-        id
+    edges
+    {
+      node
+      {
         title
-        timeToRead
+        path
         description
         date (format: "D MMMM YYYY")
-        path
+        id
+        timeToRead       
       }
     }
   }
