@@ -22,6 +22,7 @@ query {
         description
         path
         date (format: "D MMMM YYYY")
+        timeToRead
       }
     }
   }
